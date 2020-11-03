@@ -9,7 +9,7 @@ import java.util.stream.Collectors;
 import java.util.stream.LongStream;
 
 import junit.framework.TestCase;
-import lcm.BinaryBlob;
+import lcm.bin.BinaryBlob;
 import lcm.logging.Log.Event;
 
 public class LogTest extends TestCase {
