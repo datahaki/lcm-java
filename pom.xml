@@ -86,7 +86,7 @@
 						<include>**/*</include>
 					</includes>
 					<repositoryName>lcm-java</repositoryName>
-					<repositoryOwner>idsc-frazzoli</repositoryOwner>
+					<repositoryOwner>datahaki</repositoryOwner>
 				</configuration>
 				<executions>
 					<execution>

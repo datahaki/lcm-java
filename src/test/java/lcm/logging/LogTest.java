@@ -8,8 +8,8 @@ import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.LongStream;
 
-import ch.ethz.idsc.lcm.test.BinaryBlob;
 import junit.framework.TestCase;
+import lcm.BinaryBlob;
 import lcm.logging.Log.Event;
 
 public class LogTest extends TestCase {
